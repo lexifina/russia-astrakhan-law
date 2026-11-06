@@ -1,5 +1,7 @@
 # Astrakhan Oblast: catalogue of laws in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Astrakhan Oblast, Russia, which global-law reads at `russia/astrakhan/acts/`.
+
 **Facts only: no law text.**
 
 A catalogue of the laws of Astrakhan Oblast (Астраханская область), a federal subject of the Russian Federation, as a git history: one file per law, holding the facts the Official Internet Portal of Legal Information gives for it, added on the day the portal published it. `git log` lists the laws in the order they were published; checking out a date shows which laws had been published by then.
