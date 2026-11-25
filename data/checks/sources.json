@@ -22,7 +22,8 @@
    ],
    "interval": 3.2,
    "repo": "russia-astrakhan-law",
-   "group": "pravo"
+   "group": "pravo",
+   "tz": "Europe/Astrakhan"
   }
  ]
 }

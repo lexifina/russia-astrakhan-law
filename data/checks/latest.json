@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T12:49:04Z",
+ "generated": "2026-11-25T06:58:03Z",
  "latest": {
   "pravo-astrakhan|russia/astrakhan/acts": {
    "attempt": 1,
@@ -13,80 +13,42 @@
    },
    "census": {
     "checked": 1290,
-    "current": 1279,
+    "current": 1290,
     "gone": 0,
-    "held": 1279,
-    "newest_in_repo": "2026-10-19",
-    "pending": 11,
-    "repo": 1279,
+    "held": 1290,
+    "newest_in_repo": "2026-11-24",
+    "pending": 0,
+    "repo": 1290,
     "source_in_scope": 1290
    },
-   "check_id": "ru-pravo-astrakhan-20261124T124558Z",
-   "commits": {
-    "count": 2,
-    "from": "d9bcfe7ad3f19b431c1ea214ef3ecd055424fe8b",
-    "to": "085872b2f791662a0dc7e66aadc63f0620924fe3"
-   },
+   "check_id": "ru-pravo-astrakhan-20261125T051545Z",
+   "commits": null,
    "corpus": "russia/astrakhan/acts",
    "error": null,
-   "finished": "2026-11-24T12:49:03Z",
+   "finished": "2026-11-25T05:16:19Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region30: 1290 law-type documents listed (every page read); 1279 held here; 11 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region30: 1290 law-type documents listed (every page read); 1290 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "3000202611240001",
-     "3000202611240002",
-     "3000202611240003",
-     "3000202611240004",
-     "3000202611240005",
-     "3000202611240006",
-     "3000202611240007",
-     "3000202611240008",
-     "3000202611240009",
-     "3000202611240011",
-     "3000202611240012"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "requests": 10,
-   "runner": "lawwatch russia (a5c4306c67)",
+   "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "3000202611240001",
-     "3000202611240002",
-     "3000202611240003",
-     "3000202611240004",
-     "3000202611240005",
-     "3000202611240006",
-     "3000202611240007",
-     "3000202611240008",
-     "3000202611240009",
-     "3000202611240011",
-     "3000202611240012"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1290 law-type documents in block region30; newest published 2026-11-24",
    "source": "pravo-astrakhan",
-   "started": "2026-11-24T12:45:58Z",
+   "started": "2026-11-25T05:15:45Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
