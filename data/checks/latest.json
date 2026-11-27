@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:14:55Z",
+ "generated": "2026-11-27T06:07:39Z",
  "latest": {
   "pravo-astrakhan|russia/astrakhan/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1290,
     "source_in_scope": 1290
    },
-   "check_id": "ru-pravo-astrakhan-20261126T051811Z",
+   "check_id": "ru-pravo-astrakhan-20261127T051419Z",
    "commits": null,
    "corpus": "russia/astrakhan/acts",
    "error": null,
-   "finished": "2026-11-26T05:18:46Z",
+   "finished": "2026-11-27T05:14:53Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region30: 1290 law-type documents listed (every page read); 1290 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1290 law-type documents in block region30; newest published 2026-11-24",
    "source": "pravo-astrakhan",
-   "started": "2026-11-26T05:18:11Z",
+   "started": "2026-11-27T05:14:19Z",
    "unexplained": 0,
    "update": {
     "parts": []
